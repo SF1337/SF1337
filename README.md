@@ -1,8 +1,4 @@
-- 👋 - @HexGUI
-
-
-Lua Developer |
-RobloxAPI |
----------|
-HexGui | 
-Developer |
+@HexGUI 
+---------
+HexGui Developer 
+--------
